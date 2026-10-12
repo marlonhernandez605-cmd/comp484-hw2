@@ -2,7 +2,7 @@
 
 ## Live Website
 
-TODO: Add my GitHub Pages URL after publishing.
+https://marlonhernandez605-cmd.github.io/comp484-hw2
 
 ## Structuring Strategy
 
